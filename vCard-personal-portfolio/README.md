@@ -7,7 +7,7 @@
 
 ## Demo
 
-![vCard Desktop Demo](./vCard-personal-portfolio/image.png "Desktop Demo")
+![vCard Desktop Demo](./vCard-personal-portfolio/image.png)
 
 ## License
 
