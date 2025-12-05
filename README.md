@@ -1,4 +1,4 @@
-# 📚 School Git Project – Web Experiments Collection
+# 📚 Git Project School – Web Experiments Collection
 
 This repository contains **three frontend mini-projects** built using **HTML, CSS, and JavaScript**.
 All projects are fully responsive and suitable for academic submission, web fundamentals practice, or portfolio use.
