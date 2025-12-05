@@ -60,9 +60,6 @@ A simple interactive tool that checks password strength using JavaScript.
 
 A fully responsive personal portfolio template for showcasing your skills, projects, and contact information.
 
-<div align="center">
- <a href="https://codingstella.github.io/Gaming-website/"><strong>➥ Live Demo</strong></a>
-</div>
 
 ### 📸 Demo
 
